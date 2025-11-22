@@ -44,7 +44,7 @@
 <section style="margin-top:22px" class="card">
 <h3>Contato</h3>
 <p class="muted">Email: contato.gitrub@gmail.com  <a href="contato.gitrub@gmail.com"></a></p>
-<p class="muted">LinkedIn: <a href=""></a></p>
+<p class="muted">LinkedIn:https://www.linkedin.com/in/guilherme-alexandre-94759930b <a href="https://www.linkedin.com/in/guilherme-alexandre-94759930b"></a></p>
 </section>
 </main>
 
